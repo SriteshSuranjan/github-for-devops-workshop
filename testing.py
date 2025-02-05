@@ -1,5 +1,5 @@
 """
-This module provides a simple function that returns a greeting message.
+Demo module for greeting functionality.
 """
 
 
