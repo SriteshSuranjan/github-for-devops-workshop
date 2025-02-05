@@ -1,0 +1,45 @@
+  950  ls
+  951  mkdir gitandgithub
+  952  cd gitandgithub
+  953  mkdir github-for-devops-workshop
+  954  cd github-for-devops-workshop
+  955  clear
+  956  ls
+  957  vim testing.py
+  958  ./testing.py
+  959  chmod 700 testing.py
+  960  ./testing.py
+  961  vim testing.py
+  962  ./testing.py
+  963  vim testing.py
+  964  ./testing.py
+  965  vim testing.py
+  966  ./testing.py
+  967  python testing.py
+  968  python3 testing.py
+  969  vim testing.py
+  970  ./testing.py
+  971  ls
+  972  ls -l rm testing.py
+  973  rm testing.py
+  974  ls
+  975  clear
+  976  git init
+  977  ls
+  978  ls -a
+  979  git status
+  980  ls
+  981  vim testing.py
+  982  git status
+  983  git add testing.py
+  984  git status
+  985  git rm --cached
+  986  git add .
+  987  git commit -m "added testing files"
+  988  git status
+  989  rm testing.py
+  990  git status
+  991  git restore testing.py
+  992  ls
+  993  git status
+  994  vim git_commands.txt
