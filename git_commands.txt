@@ -43,3 +43,32 @@
   992  ls
   993  git status
   994  vim git_commands.txt
+  995  history
+  996  vim git_commands.txt
+  997  git status
+  998  git add git_commands.txt
+  999  git status
+ 1000  git commit -m "added git commands"
+ 1001  git status
+ 1002  git remote add origin https://github.com/SriteshSuranjan/github-for-devops-workshop.git
+ 1003  git remote -v
+ 1004  git status
+ 1005  cd ..
+ 1006  ls
+ 1007  github-for-devops-token.txt
+ 1008  vim github-for-devops-token.txt
+ 1009  ls
+ 1010  rm vim
+ 1011  cat githubs-for-devops-token.txt
+ 1012  cat github-for-devops-token.txt
+ 1013  vim github-for-devops-token.txt
+ 1014  ls
+ 1015  cd github-for-devops-workshop
+ 1016  ls
+ 1017  git remote -v
+ 1018  git remote set-url origin https://github.com/SriteshSuranjan/github-for-devops-workshop.git
+ 1019  git remote -v
+ 1020  git push origin master
+ 1021  ls
+ 1022  cat git_commands.txt
+ 1023  history
