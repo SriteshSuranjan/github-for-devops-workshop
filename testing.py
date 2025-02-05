@@ -1,16 +1,17 @@
 """
-This module contains a simple function that returns a greeting.
+This module demonstrates a simple function.
 """
 
-def hello():
+def test_function():
     """
-    Returns a greeting message.
+    This function returns a test message.
 
     Returns:
-        str: The greeting message.
+        str: A simple test message.
     """
-    return "Hello Dosto"
+    return "This is a test function"
+
 
 if __name__ == "__main__":
-    print(hello())  # Ensures the function runs only when executed directly
+    print(test_function())
 
